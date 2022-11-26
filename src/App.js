@@ -3,6 +3,7 @@ import Hero from "./components/Hero/Hero";
 import Plans from "./components/Hero/Plans/Plans";
 import Programs from "./components/Hero/Programs/Programs";
 import Reasons from "./components/Hero/Reasons/Reasons";
+import Join from "./components/Join/Join";
 import Testimonials from "./components/Testimonials/Testimonials";
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <Reasons />
       <Plans />
       <Testimonials />
+      <Join />
     </div>
   );
 }
