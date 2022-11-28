@@ -81,6 +81,10 @@
     flex-direction: column;
   }
 
+  .left-t {
+    padding: 2rem;
+  }
+
   .left-t > :nth-child(2),
   left-t > :nth-child(3) {
     font-size: xx-large;
